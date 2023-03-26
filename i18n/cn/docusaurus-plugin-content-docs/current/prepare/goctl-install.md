@@ -1,3 +1,3 @@
 # Goctl安装
 
-参考 [Goctl安装](../goctl/installation)
+参考 [Goctl安装](../goctl/goctl)
